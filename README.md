@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://deandark.me](https://deandark.me)
 
-- 📫 How to reach me **https://deandark.me/contact**
+- 📫 How to reach me **https://deandark.me/#contact**
 
 - ⚡ Fun fact **I like cats, and I'm prefectionist**
 
